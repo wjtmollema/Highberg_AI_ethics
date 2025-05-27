@@ -1,2 +1,2 @@
 # Highberg_AI_ethics
-Highberg
+This repository contains Highberg's position paper on AI ethics. 
